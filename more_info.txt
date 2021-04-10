@@ -1,2 +1,5 @@
-This project is about the device you can see in page 5 of this PDF file:
+This project is about a device SIMILAR to the one you can see at page 5 of this PDF:
 http://www.sunguard.it/download.php?file=Manuale_Installazione_Kit_Elettronico_2013_V3.pdf
+
+The image in the PDF file is about a device that read only DC currents.
+This project is about a device that read DC currents, DC voltage and 2 dry-contacts.
